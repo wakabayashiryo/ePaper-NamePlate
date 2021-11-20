@@ -1,0 +1,8 @@
+m5Stack Core2
+DIO:G23
+SCK:G18
+CS: G27
+DC:G19
+RST:G2
+BUSY:G0
+
